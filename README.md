@@ -3,7 +3,8 @@
 [![Bin](https://img.shields.io/badge/Mont3an-releases-ff69b4)](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases) 
 
 ### Screenshot
-![image]([https://github.com/M0nTan3/Mont3an-Wallet-Cracker/screenshot.png](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/blob/main/screenshot.png))
+<img src="https://github.com/M0nTan3/Mont3an-Wallet-Cracker/screenshot.png](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/blob/main/screenshot.png" alt="screenshot" width="300" height="200">
+<img>
 
 ## How To Use
 
@@ -16,4 +17,3 @@ OS: Windows 10 / 11<br>
 
 CPU: Code i3 gen 4 /Ryzen 3<br>
 
-<img align='right' src="https://profile-counter.glitch.me/LadonGo/count.svg" width="200">
