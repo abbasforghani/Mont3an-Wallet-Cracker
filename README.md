@@ -5,8 +5,8 @@
 
  <h2 align="center">Screenshot</h2>
 <p align="center">
-  <img src="screenshot.png" alt="screenshot" width="620" height="930" />
-   <img src="2.png" alt="screenshot" width="620" height="930" />
+  <img src="screenshot.png" alt="screenshot" width="620" height="940" />
+   <img src="2.png" alt="screenshot" width="620" height="940" />
 </p>
  <h2 align="center">How to use</h2>
 
