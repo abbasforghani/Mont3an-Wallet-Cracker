@@ -1,10 +1,6 @@
 
-# Ladon Scanner For Golang
-### Wiki
-http://k8gege.org/Ladon/LadonGo.html<br>
-
-[![Author](https://img.shields.io/badge/Author-k8gege-blueviolet)](https://github.com/M0nTan3) 
-[![Bin](https://img.shields.io/badge/LadonGo-Bin-ff69b4)](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases) 
+[![Author](https://img.shields.io/badge/Author-Mont3an-blueviolet)](https://github.com/M0nTan3) 
+[![Bin](https://img.shields.io/badge/Mont3an-Bin-ff69b4)](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases) 
 
 ### Screenshot
 ![image](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/screenshot.png)
