@@ -1,9 +1,9 @@
 
 [![Author](https://img.shields.io/badge/Author-Mont3an-blueviolet)](https://github.com/M0nTan3) 
-[![Bin](https://img.shields.io/badge/Mont3an-Bin-ff69b4)](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases) 
+[![Bin](https://img.shields.io/badge/Mont3an-releases-ff69b4)](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases) 
 
 ### Screenshot
-![image](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/screenshot.png)
+![image]([https://github.com/M0nTan3/Mont3an-Wallet-Cracker/screenshot.png](https://github.com/M0nTan3/Mont3an-Wallet-Cracker/blob/main/screenshot.png))
 
 ## How To Use
 
@@ -15,16 +15,5 @@ Unzip and run mont3an wallet cracker setup.exe
 OS: Windows 10 / 11<br>
 
 CPU: Code i3 gen 4 /Ryzen 3<br>
-
-
-
-<div style="text-align: center; width: 710px; border: green solid 0px;">
-<img alt="" src="http://k8gege.org/img/k8team.jpg" style="display: inline-block;width: 250px;height: 300px;" />
-</div>
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/k8gege/LadonGo.svg)](https://starchart.cc/k8gege/LadonGo)
 
 <img align='right' src="https://profile-counter.glitch.me/LadonGo/count.svg" width="200">
