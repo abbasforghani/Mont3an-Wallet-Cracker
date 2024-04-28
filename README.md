@@ -14,7 +14,7 @@ Go to the releases  or <a href="https://github.com/M0nTan3/Mont3an-Wallet-Cracke
 Unzip and run mont3an wallet cracker setup.exe
 
 <h2>Requirements</h2>
-OS: Windows 10 / 11<br>
+OS: Windows 7 or 8 or 10 or 11<br>
 
 CPU: Code i3 gen 4 /Ryzen 3<br>
 
